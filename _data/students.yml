@@ -1,5 +1,13 @@
 # New members please add your credentials to a random position in the file.
 # This is to remove conflicts with other people adding their credentials.
+    - name: Adarsh Pathak   
+  github: adarshp199877
+  image: adarsh.png
+  twitter: @adarshp199877
+  facebook: adarshp1998
+  bio: I am student of LNMIIT jaipur. java, python, c, and WebDev
+  lat: 26.9368° N
+  lng: 75.9226° E
 
 - name: Aditya Kumar
   github: adityak1121
